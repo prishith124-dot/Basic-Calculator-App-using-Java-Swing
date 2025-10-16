@@ -11,9 +11,5 @@ This is a simple calculator application built using Java Swing, a GUI toolkit fo
 ## Deployment
 
 1. Clone the repository to your local machine.
-
-```bash
-git clone https://github.com/rasakahmed/Basic-Calculator-Using-Java-Swing.git
-```
 2. Open the project in your preferred Java IDE (e.g., IntelliJ IDEA, Eclipse).
 3. Run the Calculator.java file to launch the calculator application.
